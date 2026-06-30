@@ -42,7 +42,7 @@ This project analyzes sales data from an international retail company using Pyth
 
 ### Sales by Country
 
-![Sales by Country](./images/sales_by_country.png)
+![Sales by Country](../images/sales_by_country.png)
 
 ### Sales by Product Line
 
