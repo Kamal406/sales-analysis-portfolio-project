@@ -40,11 +40,14 @@ This project analyzes sales data from an international retail company using Pyth
 - Statistical Analysis
 ## 📊 Visualizations
 
-### Sales by Product Line
-![Sales by Product](images/sales_by_product.png)
-
 ### Sales by Country
-![Sales by Country](images/sales_by_country.png)
+
+![Sales by Country](./images/sales_by_country.png)
+
+### Sales by Product Line
+
+![Sales by Product](./images/sales_by_product.png)
 
 ### Top Customers
-![Top Customers](images/top_customers.png)
+
+![Top Customers](./images/top_customers.png)
